@@ -1,3 +1,3 @@
 # ayandemo
 This is my first Git repo.
-Author - Ayan Ahamed
+Author - Ayan Ahamed(Niko)
